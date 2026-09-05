@@ -1,1 +1,2 @@
 # full-stack-development
+This repository is the beginning of my journey into full-stack web development. I am starting from the basics and learning step by step as a beginner. Here, I will practice coding, build small projects, learn new technologies, make mistakes, and improve along the way. This is not about writing perfect code — it’s about learning, growing, and becoming a better developer one step at a time. 
